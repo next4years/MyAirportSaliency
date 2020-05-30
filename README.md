@@ -4,7 +4,7 @@ a simple demo for paper 'Multi-Layer Abstraction Saliency for Airport Detection 
 
 ### Usage
 
-1. Download `OpenCV 3.2.0` [here][https://opencv.org/opencv-3-2.html], and copy the DLL file `opencv\build\x64\vc14\bin\opencv_world320.dll` to `utils\` folder.
+1. Download `OpenCV 3.2.0` [here](https://opencv.org/opencv-3-2.html), and copy the DLL file `opencv\build\x64\vc14\bin\opencv_world320.dll` to `utils\` folder.
 2. Run `Demo.m` .
 
 ### Citation
