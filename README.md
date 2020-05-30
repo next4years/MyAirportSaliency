@@ -4,7 +4,7 @@ a simple demo for paper 'Multi-Layer Abstraction Saliency for Airport Detection 
 
 ### Usage
 
-1. Download `OpenCV 3.2.0` [here][id1], and copy the DLL file `opencv\build\x64\vc14\bin\opencv_world320.dll` to `utils\` folder.
+1. Download `OpenCV 3.2.0` [here][https://opencv.org/opencv-3-2.html], and copy the DLL file `opencv\build\x64\vc14\bin\opencv_world320.dll` to `utils\` folder.
 2. Run `Demo.m` .
 
 ### Citation
@@ -20,7 +20,9 @@ pages={9820--9831},
 year={2019},
 publisher={IEEE}
 }
+```
 
+```
 @article{liu2018airport,
 title={Airport detection in large-scale SAR images via line segment grouping and saliency analysis},
 author={Liu, Nengyuan and Cui, Zongyong and Cao, Zongjie and Pi, Yiming and Dang, Sihang},
@@ -33,13 +35,11 @@ publisher={IEEE}
 }
 ```
 
-
-
 ### Notice
 
 - We only test this demo on MATLAB 2015b and 2016b.
-- We use the LSD code in `LSD-OpenCV-MATLAB` which can be found [here][id2]. The original code and paper of LSD can be found [here][id3].
+- We use the LSD code in `LSD-OpenCV-MATLAB` which can be found [here](https://github.com/primetang/LSD-OpenCV-MATLAB). The original code and paper of LSD can be found [here](http://www.ipol.im/pub/art/2012/gjmr-lsd/ ).
 
-[id1]: https://opencv.org/opencv-3-2.html
-[id2]: https://github.com/primetang/LSD-OpenCV-MATLAB
-[id3]: http://www.ipol.im/pub/art/2012/gjmr-lsd/
+### Reference
+
+[1] Xiaohui Li, Huchuan Lu, Ming-Hsuan Yang, Lihe Zhang and Xiang Ruan. Saliency Detection Via Dense and Sparse Reconstruction. International Conference on Computer Vision (ICCV), 2013. [[Github](https://github.com/huchuanlu/13_1)]
