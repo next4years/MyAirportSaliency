@@ -1,3 +1,5 @@
+**FYI：This project has been archived.**
+
 # AirportSaliency
 
 a simple demo for paper 'Multi-Layer Abstraction Saliency for Airport Detection in SAR Images'
